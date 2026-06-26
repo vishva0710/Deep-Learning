@@ -63,4 +63,3 @@ My goal is to build a strong foundation in Deep Learning by implementing algorit
 - Interview preparation notes
 
 ---
-⭐ If you find this repository useful, feel free to explore and follow my learning journey!
